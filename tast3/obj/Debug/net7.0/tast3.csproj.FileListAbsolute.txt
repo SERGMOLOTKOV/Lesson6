@@ -1,0 +1,14 @@
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/bin/Debug/net7.0/tast3
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/bin/Debug/net7.0/tast3.deps.json
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/bin/Debug/net7.0/tast3.runtimeconfig.json
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/bin/Debug/net7.0/tast3.dll
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/bin/Debug/net7.0/tast3.pdb
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/obj/Debug/net7.0/tast3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/obj/Debug/net7.0/tast3.AssemblyInfoInputs.cache
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/obj/Debug/net7.0/tast3.AssemblyInfo.cs
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/obj/Debug/net7.0/tast3.csproj.CoreCompileInputs.cache
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/obj/Debug/net7.0/tast3.dll
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/obj/Debug/net7.0/refint/tast3.dll
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/obj/Debug/net7.0/tast3.pdb
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/obj/Debug/net7.0/tast3.genruntimeconfig.cache
+/Users/sergejmolotkov/Desktop/Lesson6/tast3/obj/Debug/net7.0/ref/tast3.dll

@@ -1,0 +1,14 @@
+/Users/sergejmolotkov/Desktop/Lesson6/task4/bin/Debug/net7.0/task4
+/Users/sergejmolotkov/Desktop/Lesson6/task4/bin/Debug/net7.0/task4.deps.json
+/Users/sergejmolotkov/Desktop/Lesson6/task4/bin/Debug/net7.0/task4.runtimeconfig.json
+/Users/sergejmolotkov/Desktop/Lesson6/task4/bin/Debug/net7.0/task4.dll
+/Users/sergejmolotkov/Desktop/Lesson6/task4/bin/Debug/net7.0/task4.pdb
+/Users/sergejmolotkov/Desktop/Lesson6/task4/obj/Debug/net7.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejmolotkov/Desktop/Lesson6/task4/obj/Debug/net7.0/task4.AssemblyInfoInputs.cache
+/Users/sergejmolotkov/Desktop/Lesson6/task4/obj/Debug/net7.0/task4.AssemblyInfo.cs
+/Users/sergejmolotkov/Desktop/Lesson6/task4/obj/Debug/net7.0/task4.csproj.CoreCompileInputs.cache
+/Users/sergejmolotkov/Desktop/Lesson6/task4/obj/Debug/net7.0/task4.dll
+/Users/sergejmolotkov/Desktop/Lesson6/task4/obj/Debug/net7.0/refint/task4.dll
+/Users/sergejmolotkov/Desktop/Lesson6/task4/obj/Debug/net7.0/task4.pdb
+/Users/sergejmolotkov/Desktop/Lesson6/task4/obj/Debug/net7.0/task4.genruntimeconfig.cache
+/Users/sergejmolotkov/Desktop/Lesson6/task4/obj/Debug/net7.0/ref/task4.dll
